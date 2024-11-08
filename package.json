@@ -1,0 +1,16 @@
+{
+  "name": "asss",
+  "version": "1.0.0",
+  "description": "\"the something is not such an important code you know",
+  "main": "as.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node  as.js",
+    "start:dev": "nodemon as.js"
+  },
+  "author": "muhammadaziz",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
